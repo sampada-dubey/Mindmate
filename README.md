@@ -29,9 +29,8 @@ MindMate/
 │   └── requirements.txt
 └── README.md
 ⚙️ Tech Stack
-Layer	Tech Used
-Backend	Java + Spring Boot
-Sentiment Engine	Python (Flask, NLTK/TextBlob)
-Communication	REST API (Post → /api/send-message)
-Testing	Postman
+1. Backend	- Java + Spring Boot
+2. Sentiment Engine	- Python (Flask, NLTK/TextBlob)
+3. Communication - REST API (Post → /api/send-message)
+4. Testing	- Postman
 
