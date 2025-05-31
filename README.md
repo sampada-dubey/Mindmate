@@ -61,18 +61,18 @@ MindMate is an AI-powered mental health chatbot that detects the user's emotiona
 ---
 
 ### 3. Run Java Backend (Spring Boot)
-    ```bash
+```bash
     cd backend
     ./mvnw spring-boot:run
-    # or
+    or
     mvn spring-boot:run
-    # Runs at http://localhost:8080/api/send-message
-   ```  
+    Runs at http://localhost:8080/api/send-message
+```  
 
 ---
 
 ### 4. Test with Postman
-    ```bash
+```bash
     Send a POST request to:
     POST http://localhost:8080/api/send-message
     Body (JSON): { "message": "I feel stressed and anxious today."}
