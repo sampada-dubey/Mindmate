@@ -43,8 +43,8 @@ MindMate is an AI-powered mental health chatbot that detects the user's emotiona
 ## 🚀 How to Run
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/MindMate.git
-cd MindMate
+    git clone https://github.com/<your-username>/MindMate.git
+    cd MindMate
 ```
 
 
@@ -83,18 +83,19 @@ cd MindMate
 
 ## 🎯 Future Scope
 
-    -Add emotion-specific replies
-    -Deploy on cloud (Render, Railway, EC2)
-    -Add authentication + user journaling
-    -React/Android frontend for chat interface
+- Add emotion-specific replies
+- Deploy on cloud (Render, Railway, EC2)
+- Add authentication + user journaling
+- React/Android frontend for chat interface
 
 ---
 
 ## 👩‍💻 Author
-    - Sampada Dubey
-    - 3rd Year Computer Science Student
-    - Focused on Full-Stack + AI
-    - 🌐 {LinkedIn}[https://www.linkedin.com/in/sampada-dubey1403]
-    - 📫 {Email}[sampadadubey41@gmail.com]
+
+- Sampada Dubey
+- 3rd Year Computer Science Student
+- Focused on Full-Stack + AI
+- 🌐 {LinkedIn}[https://www.linkedin.com/in/sampada-dubey1403]
+- 📫 {Email}[sampadadubey41@gmail.com]
 
 ---
