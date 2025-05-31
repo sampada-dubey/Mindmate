@@ -72,11 +72,12 @@ MindMate is an AI-powered mental health chatbot that detects the user's emotiona
 ---
 
 ### 4. Test with Postman
-    -Send a POST request to:
+Send a POST request to:
     ```bash
     POST http://localhost:8080/api/send-message
-    Body (JSON): { "message": "I feel stressed and anxious today." }
+    Body (JSON): { "message": "I feel stressed and anxious today."}
     ```
+    
 
 ---
 
