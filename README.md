@@ -33,10 +33,10 @@ MindMate is an AI-powered mental health chatbot that detects the user's emotiona
 
 ## ⚙️ Tech Stack
 
-    -Java + Spring Boot
-    -Python (Flask, NLTK/TextBlob)
-    -REST API (Post → /api/send-message)
-    -Postman
+- Java + Spring Boot
+- Python (Flask, NLTK/TextBlob)
+- REST API (Post → /api/send-message)
+- Postman
 
 ---
 
