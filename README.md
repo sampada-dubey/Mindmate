@@ -67,7 +67,7 @@ MindMate is an AI-powered mental health chatbot that detects the user's emotiona
     # or
     mvn spring-boot:run
     # Runs at http://localhost:8080/api/send-message
-```    
+   ```  
 
 ---
 
