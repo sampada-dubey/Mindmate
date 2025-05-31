@@ -95,7 +95,7 @@ MindMate is an AI-powered mental health chatbot that detects the user's emotiona
 - Sampada Dubey
 - 3rd Year Computer Science Student
 - Focused on Full-Stack + AI
-- 🌐 {LinkedIn}[https://www.linkedin.com/in/sampada-dubey1403]
-- 📫 {Email}[sampadadubey41@gmail.com]
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sampada-dubey1403)
+- 📫 [Email](sampadadubey41@gmail.com)
 
 ---
