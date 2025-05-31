@@ -42,16 +42,16 @@ MindMate is an AI-powered mental health chatbot that detects the user's emotiona
 
 ## 🚀 How to Run
 ### 1. Clone the Repository
-    ```bash
-    git clone https://github.com/<your-username>/MindMate.git
-    cd MindMate
+```bash
+git clone https://github.com/<your-username>/MindMate.git
+cd MindMate
 ```
 
 
 ---
 
 ### 2. Run Python ML Service
-    ```bash
+```bash
     cd ml_service
     pip install -r requirements.txt
     python app.py
