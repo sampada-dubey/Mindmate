@@ -17,33 +17,35 @@ MindMate is an AI-powered mental health chatbot that detects the user's emotiona
 ## 📁 Project Structure
 
 ```bash
-MindMate/
-├── backend/ (Spring Boot)
-│   ├── src/main/java/com/mindmate/
-│   │   ├── controller/ChatController.java
-│   │   ├── model/ChatRequest.java
-│   │   └── MindmateBackendApplication.java
-│   └── application.properties
-├── ml_service/ (Python Flask)
-│   ├── app.py
-│   └── requirements.txt
-└── README.md
+    MindMate/
+    ├── backend/ (Spring Boot)
+    │   ├── src/main/java/com/mindmate/
+    │   │   ├── controller/ChatController.java
+    │   │   ├── model/ChatRequest.java
+    │   │   └── MindmateBackendApplication.java
+    │   └── application.properties
+    ├── ml_service/ (Python Flask)
+    │   ├── app.py
+    │   └── requirements.txt
+    └── README.md
+```
+---
+
+## ⚙️ Tech Stack
+-Java + Spring Boot
+-Python (Flask, NLTK/TextBlob)
+-REST API (Post → /api/send-message)
+-Postman
 
 ---
 
-⚙️ Tech Stack
-1. Backend	- Java + Spring Boot
-2. Sentiment Engine	- Python (Flask, NLTK/TextBlob)
-3. Communication - REST API (Post → /api/send-message)
-4. Testing	- Postman
-
----
-
-🚀 How to Run
+## 🚀 How to Run
 1. Clone the Repository
     ```bash
     git clone https://github.com/<your-username>/MindMate.git
     cd MindMate
+    ```
+
 
 ---
 
@@ -74,19 +76,19 @@ Send a POST request to:
 
 ---
 
-🎯 Future Scope
-1. Add emotion-specific replies
-2.Deploy on cloud (Render, Railway, EC2)
-3.Add authentication + user journaling
-4.React/Android frontend for chat interface
+## 🎯 Future Scope
+-Add emotion-specific replies
+-Deploy on cloud (Render, Railway, EC2)
+-Add authentication + user journaling
+-React/Android frontend for chat interface
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 Sampada Dubey
 3rd Year Computer Science Student
 Focused on Full-Stack + AI
-🌐 LinkedIn
+🌐 LinkedIn: [hhtps://www.linkedin.com/in/sampada-dubey1403]
 📫 Email: [sampadadubey41@gmail.com]
 
 ---
