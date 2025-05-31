@@ -91,10 +91,10 @@ cd MindMate
 ---
 
 ## 👩‍💻 Author
-    -Sampada Dubey
-    -3rd Year Computer Science Student
-    -Focused on Full-Stack + AI
-    -🌐 LinkedIn: [hhtps://www.linkedin.com/in/sampada-dubey1403]
-    -📫 Email: [sampadadubey41@gmail.com]
+    - Sampada Dubey
+    - 3rd Year Computer Science Student
+    - Focused on Full-Stack + AI
+    - 🌐 {LinkedIn}[https://www.linkedin.com/in/sampada-dubey1403]
+    - 📫 {Email}[sampadadubey41@gmail.com]
 
 ---
